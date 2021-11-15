@@ -13,7 +13,7 @@ Jinja2==2.10.1
 Mako==1.1.0
 MarkupSafe==1.1.1
 mysqlclient==1.4.4
-pip==19.2.3
+pip==21.1
 PyMySQL==0.9.3
 python-dateutil==2.8.0
 python-editor==1.0.4
